@@ -1,0 +1,6 @@
+Tecnología,Tipo,Rango_Espectral,Resolución_Espectral,Resolución_Espacial,Canales,Precisión,Aplicación_Principal,Acceso
+AVIRIS-NG,Espectrómetro hiperespectral aerotransportado,380-2510 nm,5 nm,18 m a 20 km altitud,425 canales contiguos,97% diferenciación flores/hojas/suelo,Detección de firmas espectrales florales,NASA/JPL AVIRIS Data Portal
+EMIT (ISS),Espectrómetro orbital,Infrarrojo de onda corta,Hiperespectral,Global desde ISS,Multiple,Predicción de superblooms,Mapeo mineral + detección pigmentos,NASA Earth Data
+Landsat 8-9,Satelital multiespectral,430-2300 nm,8-11 bandas,15-30 m,11 bandas,NDVI histórico confiable,Monitoreo temporal vegetación,USGS Earth Explorer (gratuito)
+RADARSAT-1/RCM,SAR (Synthetic Aperture Radar),Microondas,SAR,Variable,SAR polarizado,Independiente del clima,"Humedad suelo, estructura vegetal",Canadian Space Agency (abierto)
+Drones multiespectrales,Aeronave no tripulada,400-900 nm típico,4-6 bandas,Sub-metro a centímetros,RGB + NIR + Red Edge,98.8% segmentación con SfM,Mapeo detallado floraciones locales,Comercial/académico

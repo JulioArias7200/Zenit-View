@@ -1,0 +1,22 @@
+# NASA EarthData Credentials
+NASA_USERNAME=amilcar064
+NASA_PASSWORD=Amilcar2004@
+
+# Database Configuration
+DATABASE_URL=postgresql://amilcaryujra@localhost:5432/bloomwatch_db
+POSTGRES_USER=postgres
+POSTGRES_PASSWORD=123456
+POSTGRES_DB=bloomwatch_db
+REDIS_URL=redis://localhost:6379
+
+# API Configuration
+API_HOST=0.0.0.0
+API_PORT=8000
+DEBUG=True
+
+# External APIs
+GOOGLE_MAPS_API_KEY=your_google_maps_api_key
+
+# Celery Configuration
+CELERY_BROKER_URL=redis://localhost:6379/0
+CELERY_RESULT_BACKEND=redis://localhost:6379/0

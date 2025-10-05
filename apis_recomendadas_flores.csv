@@ -1,0 +1,6 @@
+API/Plataforma,Tipo,Datos_Disponibles,Cobertura,Aplicación_Flores,Acceso,Recomendación
+EOS Crop Monitoring,Freemium,"Índices vegetación, clima, satélite",Global,"Monitoreo cultivos, predicción floración","API REST, prueba gratuita",Mejor para análisis agrícola completo
+Google Earth Engine,Gratuito académico,"Landsat, MODIS, Sentinel, AVIRIS","Global, histórico","Análisis temporal, machine learning",Python/JavaScript API,Ideal para análisis masivo de datos
+Perenual Plant API,Gratuito,"10,000+ especies, fenología",Global botánico,"Información especies, época floración",REST API,Perfecto para identificación especies
+Plant.id API,Freemium,"IA identificación, salud plantas",Global,Identificación automática flores,"REST API, móvil",Mejor para identificación automática
+GLOBE Observer,Gratuito,Observaciones ciudadanas,Global colaborativo,"Validación terrestre, superblooms",App móvil,Ideal para validación de campo

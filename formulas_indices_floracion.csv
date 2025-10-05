@@ -1,0 +1,6 @@
+Índice,Fórmula,Variables,Aplicación,Precisión,Referencia
+Enhanced Bloom Index (EBI),(R × B) / (G × (R + B + ε)),"R=Rojo, B=Azul, G=Verde, ε=constante",Cuantificar intensidad floración individual,Efectivo flores vs fondo verde/suelo,"Chen et al. 2019, almendros"
+NDVI,(NIR - RED) / (NIR + RED),"NIR=Infrarrojo cercano, RED=Rojo visible",Vegetación activa y salud general,"Rango -1 a +1, estándar global","Landsat, MODIS, estándar"
+Spectral Angle Mapper (SAM),cos⁻¹(Σtᵢrᵢ / √(Σtᵢ²)√(Σrᵢ²)),"t=espectro prueba, r=espectro referencia",Clasificar especies por similitud espectral,Alta para discriminación especies,Kruse et al. 1993
+MSAVI2,(2×NIR + 1 - √((2×NIR + 1)² - 8×(NIR - RED))) / 2,"NIR=Infrarrojo cercano, RED=Rojo",Minimizar influencia suelo desnudo,Mejor en etapas tempranas desarrollo,Qi et al. 1994
+Spectral Information Divergence (SID),Σ(tᵢlog(tᵢ/rᵢ)) + Σ(rᵢlog(rᵢ/tᵢ)),"t=espectro prueba, r=espectro referencia",Medir divergencia entre espectros,Alta sensibilidad diferencias espectrales,Chang 2000

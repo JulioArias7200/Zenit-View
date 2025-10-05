@@ -1,0 +1,6 @@
+api_key_peranual_jac_dev = sk-iIiH68e1416a48fd312674
+api-key_agro_api= d87f970fedbf22664c1aa9ccff5d74d6	
+Account_ID_insigths_planet: 8557b543-ae0b-438b-82b7-77d2ad5950ae
+api-key_sentinel_hub_planet= PLAK27a8685b180e4acdb9d023ce0941b064
+celsium_token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiJmMDU0YjcwMy1kMTYxLTQxOTMtYmY3OS1mZGFkNGUyNDc5OGUiLCJpZCI6MzQ2NDE2LCJpYXQiOjE3NTkzNTA0NDN9.ge6JwYEzl_MC26PfoJjoirTPT4PMH90hpCe5n2hk8Ew
+
